@@ -88,11 +88,63 @@ It is  important to maintain high standards as it;
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 By defining the project scope, project planning can be well planned, executed, delivered within the set date timeline, and have a quality standard delivery without exceeding the budget.
 
-
+A work breakdown structure is a hierarchical dissecting and splitting of a project into smaller, manageable tasks and deliveries. It is a visual representation of the project scope, by breaking down the work into more detailed components.
+A WBS is essential for effective project management as it helps to ensure that all project work is organized and completed on time.
+Work breakdown structure is useful and essential in having a successful project plan as it helps in ensuring that all project works are accounted for, organized and completed on time. It identifies all tasks and deliveries required to complete the project 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
-## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+A detailed project schedule leads to; 
+* An improved project planning as it ensures that all tasks and activities are properly planned, sequenced and coordinated.
+* It facilitates communication and collaboration among team members, stakeholders and vendors.
+* Establishing realistic timelines, while reducing the risk of missed deadlines.
+* Accountability among team members ensuring that everyone is committed to meeting deadlines and deliveries 
+* Estimate costs, allocate budget and manage expenses more effectively
+
+Gnatts chart can assist in the following ways:
+1. Visualizing the project schedule and making it easier to understand and communicate the project timeline 
+2. Gnatts plans and organize tasks ensuring that everything is properly coordinated and executed 
+3. It helps in identifying and managing dependencies, critical path, and other scheduling constraints 
+4. It helps to manage risks as task delays, resource constraints and other scheduling risks.
+5. It provides a powerful tool for monitoring and controlling the project, enabling project managers to take corrective action when necessary.
+## 8. What are  
+the core issues that your software aims to address?Why are these problems significant to your target audience?
+My Software will aim to address a wide range of issues, depending on its purpose and functionality. Here are some common core issues that my software may aim to address:
+
+1. Inefficiency: Software can automate manual tasks, streamline processes, and reduce waste, making businesses and individuals more efficient.
+2. Complexity: Software can simplify complex tasks, provide intuitive interfaces, and offer guidance and support, making it easier for users to achieve their goals.
+3. Scalability: Software can help businesses and individuals scale their operations, handling increased traffic, data, or users without compromising performance.
+4. Accuracy: Software can reduce errors, improve precision, and enhance decision-making, helping users to achieve higher quality outcomes.
+5. Security: Software can protect sensitive data, prevent unauthorized access, and defend against threats, ensuring the confidentiality, integrity, and availability of information.
+
+8b The problems are significant to the target audience because  it will create an avenue for;
+1. improvement in business growth and expansion as well as reaching new markets, revenue streams and new customers.
+2. Improvement in productivity and efficiency as well as an overall improvement in performance.
+3. Improvement in decision making for both individuals and business
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+Clearly defining the problem will help to : 
+* Reduce scope creep which occurs when new features or requirements are added to the project with proper consideration 
+* Enables developers to prioritize features and functionalities that are essential to solving the problem, thereby ensuring the solution is effective and efficient.
+* It allows for better testing and validation strategies making sure that solution meets the required standard.
+* It brings about an improved Return on Investment(ROI)
+* 
+
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+
+A software solution will be;
+* Describe a problem that needs to be addressed with solutions.
+* The benefits to be derived from its use or provided with  it's use
+* The value it offers to users.
+
 ## 11. What are the main features or functionalities that make your software stand out?
+Features and functionality that makes my software stand out include;
+* Mobile friendly design and accessibility features that enables users to access the software from anywhere.
+* Advanced and firm security measures put in place, data encryption and compliance with industry regulations ensuring the integrity and confidentiality of user data 
+* A continuous improvement and regular updates that ensure the software stays ahead of the curve and meets evolving users needs
 ## 12. What data is available regarding the market size and growth potential for your software?
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
+Understanding market trends can significantly inform software positioning and development in the sense that:
+* It helps in making informed decisions that will ultimately drive the software growth, success and competitiveness 
+* It helps to enhance users experience ensuring to meet the evolving expectations and preferences of the audience 
+* It helps in getting information on pricing and revenue models
+* It reveals opportunities for partnership and integration 
